@@ -1,0 +1,106 @@
+#content {
+    margin: 0 auto;
+}
+nav a {
+    text-align: center;
+}
+#hero-msg h1 {
+    text-align: center;
+}
+#hero-msg h4 {
+    text-align: center;
+}
+.button-box {
+    text-align: center;
+}
+main section {
+    text-align: center;
+}
+#background {
+    height: 725px;
+}
+body {
+    background-color: white ;
+}
+header {
+    background-color: #8ee0d8;
+}
+nav a:hover {
+    background-color: white;
+}
+.book {
+    background-color: white;
+}
+.join {
+    background-color: #8ee0d8;
+}
+.book:hover {
+    background-color: #8ee0d85d;
+}
+.join:hover {
+    background-color: white;
+}
+#background {
+    background-color: #95989b;
+}
+.msg {
+    background-color: #8ee0d8;
+}
+footer {
+    background-color: #95989b;
+}
+nav a:hover {
+    background-attachment: fixed;
+    color: #8ee0d8
+}
+nav a {
+    background-attachment: fixed;
+    color: #8ee0d8
+}
+.home-title {
+    background-attachment: fixed;
+    color: #8ee0d8
+}
+h4 {
+    background-attachment: fixed;
+    color: #8ee0d8
+}
+.book{
+    background-attachment: fixed;
+    color: #8ee0d8
+}
+.join {
+    background-attachment: fixed;
+    color: white
+}
+.book:hover {
+    background-attachment: fixed;
+    color: #8ee0d8
+}
+.join:hover{
+    background-attachment: fixed;
+    color: #8ee0d8
+}
+.msg h2{
+    background-attachment: fixed;
+    color: white
+}
+.msg p{
+    background-attachment: fixed;
+    color: white
+}
+footer h3 {
+    background-attachment: fixed;
+    color: #8ee0d8
+}
+footer a {
+    background-attachment: fixed;
+    color: #8ee0d8
+}
+.footer a:hover{
+    background-attachment: fixed;
+    color: #8ee0d8
+}
+.icon {
+    width: 80px ; 
+}
