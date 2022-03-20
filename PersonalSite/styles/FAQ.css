@@ -124,27 +124,3 @@ h3 {
   margin-inline-end: 0px;
   font-weight: bold;
 }
-.FAQ_main {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  background-color:#C5C6C7;
-  color: #1F2833;
-}
-.FAQ_main li {
-  font-size: 20px;
-}
-.contactus_main {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  font-size: 16px;
-}
-.contactus_main p {
-  font-size: 25px;
-  color: #C5C6C7;
-}
-.contactus_main h1{
-  font-size: 50px;
-}
-.sign_up {
-  border: 10px solid #C5C6C7;
-}
