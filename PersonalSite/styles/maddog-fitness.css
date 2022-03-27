@@ -130,8 +130,11 @@ h3 {
   background-color:#C5C6C7;
   color: #1F2833;
 }
+.FAQ_main h1 {
+  font-size: 40px;
+}
 .FAQ_main li {
-  font-size: 20px;
+  font-size: 35px;
 }
 .contactus_main {
   display: grid;
