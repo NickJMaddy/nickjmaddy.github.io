@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Roboto&display=swap');
 body {
     background-color: #1F2833 ;
 }
@@ -20,6 +21,21 @@ section {
   text-align: center;
   color: #66FCF1;
   font-size: 20px;
+}
+div {
+  padding: 50px;
+  text-align: center;
+  color: #66FCF1;
+  font-size: 20px;
+}
+.homepage {
+  width: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Oswald";
+}
+p, li {
+  font-family: 'Roboto', Helvetica, sans-serif;
 }
 * {box-sizing: border-box;}
 
